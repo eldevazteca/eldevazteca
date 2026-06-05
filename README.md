@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./myicon.png" alt="Dev Azteca" width="120" style="border-radius: 50%" />
+  <img src="./logo.png" alt="Dev Azteca" width="120" style="border-radius: 50%" />
 </div>
 
 <h1 align="center">Dev Azteca</h1>
