@@ -63,5 +63,7 @@ También trabajo con **React & Next.js** para el frontend web, y **Firebase, SQL
 
 ### ⚡ Actividad reciente
 
+Últimos commits y PRs en **Azteca Wallet** y otros proyectos.
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
