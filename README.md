@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -32,7 +32,7 @@
 
 Soy un desarrollador apasionado por las aplicaciones móviles nativas y multiplataforma. Actualmente me especializo en **Kotlin Multiplatform** y **Compose Multiplatform**, creando apps que funcionan en Android, iOS y escritorio desde una sola base de código.
 
-También trabajo con **React & Next.js** para el frontend web, y **Firebase, SQLite y PostgreSQL** para el backend y almacenamiento de datos. En mi tiempo libre exploro el mundo de **Arduino y ESP8266**.
+También trabajo con **React** para el frontend web, y **Firebase, SQLite y PostgreSQL** para el backend y almacenamiento de datos. En mi tiempo libre exploro el mundo de **Arduino y ESP8266**.
 
 ---
 
