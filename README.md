@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Desarrollador de aplicaciones móviles nativas</strong>
   <br />
-  Kotlin Multiplatform · Compose Multiplatform · React
+  Kotlin Multiplatform · Compose Multiplatform · Swift · React 
   <br />
   <a href="https://eldevazteca.dev" target="_blank">eldevazteca.dev</a>
 </p>
