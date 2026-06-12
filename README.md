@@ -5,9 +5,9 @@
 <h1 align="center">Dev Azteca</h1>
 
 <p align="center">
-  <strong>Desarrollador de aplicaciones móviles nativas</strong>
+  <strong>Desarrollador de aplicaciones móviles nativas y mediante Frameworks</strong>
   <br />
-  Kotlin Multiplatform · Compose Multiplatform · Swift · React 
+  Kotlin Multiplatform · Compose Multiplatform · Swift · React Native
   <br />
   <a href="https://eldevazteca.dev" target="_blank">eldevazteca.dev</a>
 </p>
